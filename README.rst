@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Build Logic Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+[![Documentation Status](https://readthedocs.org/projects/buildlogic/badge/?version=latest)](https://buildlogic.readthedocs.io/en/latest/?badge=latest)
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is the source of the Build Logic Docs
+You can view them here: 
