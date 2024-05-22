@@ -86,9 +86,17 @@ You can choose a color by interacting with the color picker.
     :scale: 75%
 
 Eyepicker
-"""""""""
+~~~~~~~~~
 
 You can select a color from another object by clicking on the eyedropper, then clicking on the object you want to copy from.
+
+.. image:: /images/placeholder.png
+    :scale: 75%
+
+Painting
+~~~~~~~~
+
+You can paint an object by clicking on it.
 
 .. image:: /images/placeholder.png
     :scale: 75%
