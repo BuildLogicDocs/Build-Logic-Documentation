@@ -54,6 +54,6 @@ The build tool menu is made out of 4 parts
 3. Items
 4. Search bar
 
-.. image:: /images/tool/build/menu.jpg
+.. image:: /images/tool/buildtool/menu.jpg
     :scale: 75%
 
