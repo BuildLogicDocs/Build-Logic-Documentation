@@ -49,7 +49,7 @@ Menu
 ~~~~
 
 The build tool menu is made out of 4 parts
-1. Main categories
+\1. Main categories
 2. Sub-categories
 3. Items
 4. Search bar
