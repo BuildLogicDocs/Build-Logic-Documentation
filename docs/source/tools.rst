@@ -11,14 +11,20 @@ The wire tool allows you to connect an output pin to an input pin.
 Connect
 ~~~~~~~
 
-To connect 2 pins, click on one pin, then click on the second pin.
+To connect 2 nodes, click on one pin, then click on the second pin.
 
 .. image:: /images/tools/wire/addWire.gif
+
+.. note::
+    
+    You can make multiple connections by holding CTRL.
+
+    .. image:: /images/tools/wire/multiConnect.gif
 
 Remove
 ~~~~~~
 
-To remove a wire, just press and hold on one of the connected pins.
+To remove a wire, just press and hold on one of the connected nodes.
 
 .. image:: /images/tools/wire/removeWire.gif
 
