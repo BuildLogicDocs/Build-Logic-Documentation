@@ -16,10 +16,11 @@ To connect 2 nodes, click on one pin, then click on the second pin.
 .. image:: /images/tools/wire/addWire.gif
 
 .. note::
-    
+
     You can make multiple connections by holding CTRL.
 
     .. image:: /images/tools/wire/multiConnect.gif
+        :scale: 50%
 
 Remove
 ~~~~~~
