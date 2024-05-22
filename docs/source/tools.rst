@@ -14,6 +14,7 @@ Connect
 To connect 2 nodes, click on one pin, then click on the second pin.
 
 .. image:: /images/tools/wire/addWire.gif
+    :scale: 75%
 
 .. note::
 
@@ -38,3 +39,21 @@ The delete tool, as the name implies, is used for deleting objects.
 Just click on an object to delete it.
 
 .. image:: /images/tools/delete.gif
+    :scale: 75%
+
+
+Build Tool
+----------
+
+Menu
+~~~~
+
+The build tool menu is made out of 4 parts
+1. Main categories
+2. Sub-categories
+3. Items
+4. Search bar
+
+.. image:: /images/tool/build/menu.jpg
+    :scale: 75%
+
