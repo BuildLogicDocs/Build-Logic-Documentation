@@ -9,5 +9,5 @@ Wire Tool
 The wire tool allows you to connect an output pin to an input pin.
 To connect 2 pins, click on one pin, then click on the second pin.
 
-.. image:: addWire.gif
+.. image:: /images/tools/addWire.gif
 
