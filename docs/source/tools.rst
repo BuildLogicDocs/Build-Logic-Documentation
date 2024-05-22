@@ -29,6 +29,7 @@ Remove
 To remove a wire, just press and hold on one of the connected nodes.
 
 .. image:: /images/tools/wire/removeWire.gif
+    :scale: 75%
 
 
 Delete Tool
