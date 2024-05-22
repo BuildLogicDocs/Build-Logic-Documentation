@@ -1,24 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to the **Build Logic** Docs!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+[Build Logic](https://www.roblox.com/games/9527099245/Build-Logic) is a sandbox construction game where you can build intelligent things!
+This is the center of all info for **Build Logic**
+If you find any bugs or have ideas, send it in our [Roblox group](https://www.roblox.com/groups/6127410 "Official Build Logic Roblox group")
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-
-Test
+   test
