@@ -69,7 +69,7 @@ Place
 
 You can place an object by clicking.
 
-.. image:: /images/tools/buildtool/place.gif
+.. figure:: /images/tools/buildtool/place.gif
     :scale: 75%
     :align: center
 
