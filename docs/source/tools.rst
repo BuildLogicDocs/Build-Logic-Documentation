@@ -57,3 +57,16 @@ The build tool menu is made out of 4 parts
 .. image:: /images/tools/buildtool/menu.jpg
     :scale: 75%
 
+
+Place
+~~~~~
+
+You can place an object by clicking.
+
+.. image:: /images/tools/buildtool/place.gif
+    :scale: 75%
+
+.. note::
+
+    You can rotate an object by pressing, R, T or Y
+
