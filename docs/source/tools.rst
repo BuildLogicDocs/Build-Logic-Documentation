@@ -11,3 +11,6 @@ To connect 2 pins, click on one pin, then click on the second pin.
 
 .. image:: /images/tools/addWire.gif
 
+To remove a wire, just press and hold on one of the connected pins.
+
+.. image:: /images/tools/removeWire.gif
