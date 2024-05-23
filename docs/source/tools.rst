@@ -6,12 +6,12 @@ This section talks about how to use the tools.
 Wire Tool
 ---------
 
-The wire tool allows you to connect an output pin to an input pin.
+The wire tool allows you to connect an output node to an input node.
 
 Connect
 ~~~~~~~
 
-To connect 2 nodes, click on one pin, then click on the second pin.
+To connect 2 nodes, click on one node, then click on the second node.
 
 .. image:: /images/tools/wire/addWire.gif
     :scale: 75%
@@ -45,6 +45,8 @@ Just click on an object to delete it.
 Build Tool
 ----------
 
+The build tool is used for placing down objects
+
 Menu
 ~~~~
 
@@ -77,6 +79,8 @@ You can place an object by clicking.
 Paint Tool
 ----------
 
+The paint tool is used for painting objects.
+
 Color Picker
 ~~~~~~~~~~~~
 
@@ -100,3 +104,9 @@ You can paint an object by clicking on it.
 
 .. image:: /images/placeholder.png
     :scale: 75%
+
+
+Select Tool
+-----------
+
+The 
