@@ -109,4 +109,4 @@ You can paint an object by clicking on it.
 Select Tool
 -----------
 
-The 
+Placeholder
