@@ -69,9 +69,10 @@ Place
 You can place an object by clicking.
 
 .. figure:: /images/tools/buildtool/place.gif
-    :scale: 50%
+    :scale: 100%
 
-.. note::
+.. tip::
+    :width: 50%
 
     You can rotate an object by pressing, R, T or Y
 
