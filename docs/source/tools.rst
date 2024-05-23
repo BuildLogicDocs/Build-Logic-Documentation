@@ -14,14 +14,16 @@ Connect
 To connect 2 nodes, click on one node, then click on the second node.
 
 .. figure:: /images/tools/wire/addWire.gif
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 .. note::
 
     You can make multiple connections by holding CTRL.
 
     .. figure:: /images/tools/wire/multiConnect.gif
-        :scale: 50%
+        :width: 50%
+        :height: auto
 
 Remove
 ~~~~~~
@@ -29,7 +31,8 @@ Remove
 To remove a wire, just press and hold on one of the connected nodes.
 
 .. figure:: /images/tools/wire/removeWire.gif
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 Delete Tool
 -----------
@@ -39,7 +42,8 @@ The delete tool, as the name implies, is used for deleting objects.
 Just click on an object to delete it.
 
 .. figure:: /images/tools/delete.gif
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 
 Build Tool
@@ -61,7 +65,8 @@ The build tool menu is made out of 4 parts:
 4. Search bar
 
 .. figure:: /images/tools/buildtool/menu.jpg
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 Place
 ~~~~~
@@ -69,7 +74,8 @@ Place
 You can place an object by clicking.
 
 .. figure:: /images/tools/buildtool/place.gif
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 .. note::
 
@@ -87,7 +93,8 @@ Color Picker
 You can choose a color by interacting with the color picker.
 
 .. figure:: /images/tools/paint/selectColor.gif
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 Eyepicker
 ~~~~~~~~~
@@ -95,7 +102,8 @@ Eyepicker
 You can select a color from another object by clicking on the eyedropper, then clicking on the object you want to copy from.
 
 .. figure:: /images/placeholder.png
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 Painting
 ~~~~~~~~
@@ -103,7 +111,8 @@ Painting
 You can paint an object by clicking on it.
 
 .. figure:: /images/placeholder.png
-    :scale: 50%
+    :width: 50%
+    :height: auto
 
 
 Select Tool
