@@ -89,7 +89,7 @@ You can choose a color by interacting with the color picker.
 
 .. figure:: /images/tools/paint/selectColor.gif
     :width: 50%
-    :height: auto
+    :height: 50%
 
 Eyepicker
 ~~~~~~~~~
