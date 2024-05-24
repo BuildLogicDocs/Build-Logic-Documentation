@@ -14,7 +14,8 @@ Connect
 To connect 2 nodes, click on one node, then click on the second node.
 
 .. figure:: /images/tools/wire/addWire.gif
-    :scale: 50%
+    :width: 50%
+    :height: 50%
 
 .. note::
 
