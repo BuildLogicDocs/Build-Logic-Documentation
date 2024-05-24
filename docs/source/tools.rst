@@ -82,8 +82,8 @@ You can choose a color by interacting with the color picker.
 
 .. figure:: /images/tools/paint/selectColor.gif
 
-Eyepicker
-~~~~~~~~~
+Eyedropper
+~~~~~~~~~~
 
 You can select a color from another object by clicking on the eyedropper, then clicking on the object you want to copy from.
 
