@@ -6,4 +6,4 @@ Build Logic Docs
     :alt: Documentation Status
 
 This is the source of the Build Logic Docs
-You can view them here: 
+You can view them `here <https://buildlogic.readthedocs.io>`
